@@ -1,2 +1,0 @@
-user = ashish01
-pass = abcd
